@@ -148,9 +148,9 @@ I'm especially interested in opportunities involving:
 
 ## 🤝 Let's Connect
 
-* 💼 LinkedIn: **YOUR_LINKEDIN**
-* 📧 Email: **YOUR_EMAIL**
-* 🐙 GitHub: **YOUR_GITHUB**
+* 💼 LinkedIn: **https://www.linkedin.com/in/ahmed-zayed-54b39b211/**
+* 📧 Email: **bahmd5856@gmail.com**
+* 🐙 GitHub: **https://github.com/AhmedZayed777**
 
 ---
 
