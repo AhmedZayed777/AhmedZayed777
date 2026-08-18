@@ -1,144 +1,216 @@
 # 👋 Hi, I'm Ahmed Zayed
 
-### 🤖 AI / Machine Learning Engineer | Computer Science Student
+### 🤖 AI Engineer | Machine Learning | LLMs | RAG | Computer Vision
 
-I'm a Computer Science student passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision**.
+I'm an **AI Engineer focused on building practical AI systems** using Machine Learning, Deep Learning, Large Language Models, and Retrieval-Augmented Generation.
 
-I'm currently building practical AI projects and expanding my knowledge in **LLMs, RAG systems, Transformers, and AI Engineering**.
+My main interest is developing **intelligent, reliable, and domain-specific AI applications**, especially systems that combine LLMs with external knowledge and structured data.
 
----
-
-## 🧠 About Me
-
-* 🎓 Computer Science Student
-* 🤖 Interested in **AI & Machine Learning Engineering**
-* 👁️ Focused on **Computer Vision & Deep Learning**
-* 🔍 Currently working with **RAG, LLMs, and Transformers**
-* 🛠️ I enjoy turning AI concepts into practical projects
-* 🚀 Looking for opportunities to grow through **internships and real-world AI projects**
+Currently, I'm putting particular focus on **Legal AI** and building **Mizan**, an AI legal assistant designed to help users interact with Egyptian legal knowledge through natural language.
 
 ---
 
-## 💻 Tech Stack
+## ⚖️ Mizan — AI Legal Assistant
 
-### 🐍 Programming & Data
+### 🏛️ Making Egyptian Legal Knowledge More Accessible
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=python\&logoColor=white)
+**Mizan** is an AI-powered legal assistant focused on **Egyptian law**.
 
-### 🤖 Machine Learning & Deep Learning
+The goal is to build a system where users can ask legal questions in natural language and receive answers grounded in relevant legal sources rather than relying solely on an LLM's internal knowledge.
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
+### 🔍 Core Architecture
+
+```text
+                    User Question
+                          │
+                          ▼
+                  ┌───────────────┐
+                  │ Query Analysis │
+                  └───────┬───────┘
+                          │
+                          ▼
+                  ┌───────────────┐
+                  │   Retrieval   │
+                  │   (RAG)       │
+                  └───────┬───────┘
+                          │
+                          ▼
+                 ┌─────────────────┐
+                 │ Egyptian Legal  │
+                 │ Knowledge Base  │
+                 └────────┬────────┘
+                          │
+                          ▼
+                  ┌───────────────┐
+                  │      LLM      │
+                  │ Reasoning +   │
+                  │ Generation    │
+                  └───────┬───────┘
+                          │
+                          ▼
+                  ┌───────────────┐
+                  │ Grounded Legal│
+                  │    Answer     │
+                  └───────────────┘
+```
+
+### 🧠 Key Features
+
+* 🇪🇬 Focused on **Egyptian legislation**
+* 🔎 Retrieval-Augmented Generation (RAG)
+* 📚 Legal document retrieval
+* 📝 Arabic legal text processing
+* 🔗 Source-grounded responses
+* 🧩 Structured legal information
+* 🤖 LLM-powered question answering
+* ⚖️ Designed with legal accuracy and traceability in mind
+
+### 🛠️ Technologies
+
+**Python • LangChain • LLMs • RAG • Embeddings • Vector Databases • NLP**
+
+> Mizan is one of my main projects for exploring how modern AI systems can be applied to real-world legal information.
+
+---
+
+## 🧠 AI & Machine Learning
+
+My work covers several areas of Artificial Intelligence:
+
+### 🤖 Generative AI
+
+* Large Language Models
+* Retrieval-Augmented Generation
+* AI Agents
+* Tool Calling
+* Prompt Engineering
+* Structured Output
+* Embeddings
+* Vector Databases
+* PEFT / LoRA
+* Transformers
 
 ### 👁️ Computer Vision
 
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge\&logo=opencv\&logoColor=white)
-
 * Image Classification
-* Semantic Segmentation
 * Transfer Learning
 * CNNs
+* Semantic Segmentation
 * Video Classification
 * Vision Transformers
+* OpenCV
 
-### 🧠 Generative AI & LLMs
+### 📊 Machine Learning
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge\&logo=huggingface\&logoColor=black)
-
-* Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
-* Embeddings & Vector Databases
-* Prompt Engineering
-* Agents & Tool Calling
-* Transformers
-* PEFT / LoRA
-
-### 🛠️ Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+* Classification
+* Regression
+* Feature Engineering
+* Ensemble Learning
+* Model Evaluation
+* Hyperparameter Optimization
 
 ---
 
 ## 🚀 Featured Projects
 
+### ⚖️ Mizan — AI Legal Assistant
+
+An AI-powered legal assistant focused on Egyptian law.
+
+**RAG • LLMs • NLP • Legal Documents • Vector Search**
+
+---
+
 ### 🤖 AI Code Review Assistant
 
-An AI-powered code review system using **RAG + LLMs + Agents**.
+An AI system that analyzes source code and provides structured code reviews.
 
 **Features:**
 
-* Code analysis
-* Issue detection
-* Severity classification
-* Best-practice retrieval
-* Suggested fixes
-* Structured output
+* Detect coding issues
+* Classify severity
+* Explain problems
+* Retrieve relevant documentation and best practices
+* Generate suggested fixes
 
-**Tech:** Python • LangChain • LLMs • RAG • Agents
+**RAG • LLMs • Agents • Output Parsers**
 
 ---
 
 ### 👁️ Computer Vision Projects
 
-Projects involving:
+A collection of projects exploring modern Computer Vision techniques.
 
-* Image Classification
-* Transfer Learning
-* MobileNetV2
-* Semantic Segmentation
-* Video Classification
-* Transformer-based Computer Vision
-
-**Tech:** Python • TensorFlow • Keras • OpenCV • Transformers
+**Classification • Segmentation • Transfer Learning • Transformers • Video Understanding**
 
 ---
 
-### ⚖️ Arabic Legal RAG System
+## 🛠️ Tech Stack
 
-An Arabic legal AI system designed to retrieve relevant information from **Egyptian legal documents** and provide grounded answers using RAG.
+### Languages & Data
 
-**Tech:** Python • NLP • RAG • Embeddings • Vector Database • LLMs
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+
+### AI / ML
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
+
+### Generative AI
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge\&logo=huggingface\&logoColor=black)
+
+**LLMs • RAG • Agents • Transformers • Embeddings • Vector Search • PEFT • LoRA**
+
+### Computer Vision
+
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge\&logo=opencv\&logoColor=white)
 
 ---
 
-## 📚 Currently Learning
+## 🔬 Current Focus
+
+My current development focus is around:
 
 ```text
-Advanced RAG
-    ↓
-LLM Applications
-    ↓
-AI Agents
-    ↓
-Transformers
-    ↓
-Fine-Tuning & PEFT
-    ↓
-Production AI / MLOps
+        Generative AI
+              │
+       ┌──────┴──────┐
+       │             │
+      RAG           Agents
+       │             │
+       └──────┬──────┘
+              │
+            LLMs
+              │
+       ┌──────┴──────┐
+       │             │
+    Legal AI      AI Systems
+       │             │
+       └──────┬──────┘
+              │
+            Mizan
 ```
 
-I'm continuously working on improving my understanding of how to build **reliable and production-ready AI systems**.
+I'm particularly interested in solving problems where **AI needs access to specialized knowledge instead of relying only on the model's parametric knowledge**.
 
 ---
 
-## 🎯 My Goal
+## 🎯 What I'm Building Toward
 
-> Become a strong **AI Engineer** capable of designing, building, and deploying real-world AI systems.
+My goal is to become a strong **AI Engineer capable of designing complete AI applications**, from data preparation and model development to RAG pipelines, LLM integration, evaluation, and deployment.
 
-I'm especially interested in opportunities involving:
+My strongest areas of interest are:
 
-**Machine Learning • Deep Learning • Computer Vision • LLMs • RAG • AI Agents**
+**Legal AI • RAG • LLM Applications • AI Agents • Computer Vision • Deep Learning**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
 
@@ -148,10 +220,12 @@ I'm especially interested in opportunities involving:
 
 ## 🤝 Let's Connect
 
-* 💼 LinkedIn: **https://www.linkedin.com/in/ahmed-zayed-54b39b211/**
-* 📧 Email: **bahmd5856@gmail.com**
-* 🐙 GitHub: **https://github.com/AhmedZayed777**
+* 💼 LinkedIn: **YOUR_LINKEDIN**
+* 📧 Email: **YOUR_EMAIL**
+* 🐙 GitHub: **YOUR_GITHUB**
 
 ---
 
-⭐ If you find my projects interesting, feel free to explore my repositories!
+### ⚖️ Building AI that can work with knowledge, not just generate text.
+
+⭐ Explore my repositories to see what I'm building.
