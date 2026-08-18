@@ -217,23 +217,41 @@ These projects focus on enabling LLMs to work with **external knowledge sources 
 
 # 🛠️ Tech Stack
 
-### Languages & Data
+### 💻 Languages & Data
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-\
+### 🧠 Machine Learning & Deep Learning
 
-### Machine Learning & Deep Learning
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
+**Classification • Regression • CNNs • Transfer Learning • Deep Learning • Model Evaluation**
 
-\
+### 🤖 Generative AI
 
-### Generative AI
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 
-\
+**LLMs • RAG • AI Agents • Transformers • Embeddings • Vector Search • PEFT • LoRA • Prompt Engineering**
 
-**LLMs • RAG • Agents • Transformers • Embeddings • Vector Search • PEFT • LoRA**
+### 👁️ Computer Vision
 
-### Computer Vision
+![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Image Classification • Semantic Segmentation • Video Classification • CNNs • Vision Transformers • Multispectral Imaging**
+
+### 🗄️ Databases & Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**Vector Databases • Document Processing • REST APIs • Streamlit**
 
 ---
 
